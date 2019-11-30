@@ -1,0 +1,7 @@
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\obj\Debug\Assignment_2.csprojAssemblyReference.cache
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\Todor\source\repos\Assignments_All\Assignment_2\obj\Debug\Assignment_2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\bin\Debug\Generics.exe.config
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\bin\Debug\Generics.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\bin\Debug\Generics.pdb
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\obj\Debug\Generics.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\C#_Challenges\Generics\obj\Debug\Generics.pdb
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\bin\Debug\Generics.exe.config
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\bin\Debug\Generics.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\bin\Debug\Generics.pdb
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\obj\Debug\Generics.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\CS_Challenges\Generics\obj\Debug\Generics.pdb

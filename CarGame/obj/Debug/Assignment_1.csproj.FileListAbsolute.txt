@@ -1,0 +1,14 @@
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\obj\Debug\Assignment_1.csprojAssemblyReference.cache
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\Todor\source\repos\Assignments_All\Assignment_1\obj\Debug\Assignment_1.pdb
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\obj\Debug\Assignment_1.csprojAssemblyReference.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\Todor\Desktop\Umbraco_CodeDemo_19_6_2019\Selected_Untouched\Assignments_All\Assignment_1\obj\Debug\Assignment_1.pdb

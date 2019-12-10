@@ -1,2 +1,2 @@
 CS-Challenges
-- Different examples of working with the .NET Platform
+- Different examples of working with the .NET Platform and C#

@@ -63,9 +63,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tasks_4_5\Tasks_4_5.csproj">
+    <ProjectReference Include="..\Tasks_4_5\ProblemSolving.csproj">
       <Project>{161B47A2-109C-4923-8C8B-50BFA7CCBAEC}</Project>
-      <Name>Tasks_4_5</Name>
+      <Name>ProblemSolving</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

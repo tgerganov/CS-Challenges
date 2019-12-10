@@ -1,0 +1,7 @@
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\bin\Debug\Tasks_4_5.exe.config
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\bin\Debug\Tasks_4_5.exe
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\bin\Debug\Tasks_4_5.pdb
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\obj\Debug\Tasks_4_5.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\obj\Debug\Tasks_4_5.exe
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\obj\Debug\Tasks_4_5.pdb
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5\obj\Debug\Tasks_4_5.csprojAssemblyReference.cache

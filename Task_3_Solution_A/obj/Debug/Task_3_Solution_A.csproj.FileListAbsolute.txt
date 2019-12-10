@@ -1,0 +1,7 @@
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\bin\Debug\Task_3_Solution_A.exe.config
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\bin\Debug\Task_3_Solution_A.exe
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\bin\Debug\Task_3_Solution_A.pdb
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\obj\Debug\Task_3_Solution_A.csprojAssemblyReference.cache
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\obj\Debug\Task_3_Solution_A.csproj.CoreCompileInputs.cache
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\obj\Debug\Task_3_Solution_A.exe
+C:\Users\Todor\source\repos\Paperturn_Internship_ProgrammingTasks\Task_3_Solution_A\obj\Debug\Task_3_Solution_A.pdb

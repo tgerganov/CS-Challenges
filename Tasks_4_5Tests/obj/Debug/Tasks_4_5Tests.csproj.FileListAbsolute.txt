@@ -1,0 +1,17 @@
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Tasks_4_5Tests.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Tasks_4_5Tests.pdb
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Tasks_4_5.exe
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Tasks_4_5.pdb
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Tasks_4_5.exe.config
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\obj\Debug\Tasks_4_5Tests.csprojAssemblyReference.cache
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\obj\Debug\Tasks_4_5Tests.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\obj\Debug\Tasks_4_5Tests.csproj.CopyComplete
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\obj\Debug\Tasks_4_5Tests.dll
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\Tasks_4_5Tests\obj\Debug\Tasks_4_5Tests.pdb

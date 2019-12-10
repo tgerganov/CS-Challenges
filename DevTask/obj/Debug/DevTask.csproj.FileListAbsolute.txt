@@ -1,0 +1,7 @@
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\bin\Debug\DevTask.exe.config
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\bin\Debug\DevTask.exe
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\bin\Debug\DevTask.pdb
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\obj\Debug\DevTask.csprojAssemblyReference.cache
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\obj\Debug\DevTask.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\obj\Debug\DevTask.exe
+C:\Users\Todor\Desktop\New\Work_Appl_Aug2019\Nov2019\22112019\Jobnet_FlexyBox_SysUdv\DevTask\FlexyBox\DevTask\obj\Debug\DevTask.pdb
